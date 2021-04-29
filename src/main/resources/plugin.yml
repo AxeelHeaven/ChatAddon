@@ -1,0 +1,7 @@
+name: ChatAddon
+version: ${project.version}
+main: com.axeelheaven.hskywarschat.ChatAddon
+depend:
+  - HSkyWars
+softdepend:
+  - PlaceholderAPI

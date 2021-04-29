@@ -1,0 +1,14 @@
+chat_settings:
+  interval: 3
+  min_caps: 4
+  only_team_chat: false
+  only_spectator_chat: true
+
+messages:
+  lobby: "%hpermissions_prefix% &e[<hsw-level>✯] &f<name>: &7<message>."
+  spectator: "&7[SPECTATOR] &f<name>: &7<message>."
+  solo: "&e[<hsw-level>✯] &f<name>: &7<message>."
+  team: "&9[Team <hsw-teamid>] &f<name>: &7<message>."
+  ranked: "<hsw-elo_rank_prefix> &f<name>: &7<message>."
+  interval:
+    - "&cWait <time> seconds to speak again."
